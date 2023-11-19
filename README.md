@@ -1,1 +1,1 @@
-# Repositório utilizado para testes do Curso de Enegnharia da Computação.
+# Repositório utilizado para testes do Curso de Engenharia da Computação.
